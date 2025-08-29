@@ -1,0 +1,4 @@
+[pipeline]
+# The name of the dataset in your destination.
+# In a database, this would be a schema name.
+dataset_name = "postgres_rest_example"
