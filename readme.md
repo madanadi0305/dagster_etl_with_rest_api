@@ -9,6 +9,7 @@ dagster project scaffold --name rest_api_postgres
 ### Run the Flask App ###
 In one terminal run the App
 flask --app app run
+
 Hit http://localhost:5000
 ###  APIs can be found at this link ###
 http://localhost:5000/getcustomerdata
@@ -17,4 +18,7 @@ cd rest_api_postgres
 dagster dev
 This runs dagster on dev environment
 Hit http://localhost:3000 to have a look at the Assets and Run them to orchestrate the process of loading data into postgres.
+
+### Assets in the project ###
+<img width="1917" height="1094" alt="image" src="https://github.com/user-attachments/assets/2e2cbc8d-7cc9-4de1-863c-2080e057cc56" />
 
