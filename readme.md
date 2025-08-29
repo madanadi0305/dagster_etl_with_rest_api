@@ -9,7 +9,7 @@ dagster project scaffold --name rest_api_postgres
 ### Run the Flask App ###
 In one terminal run the App
 flask --app app run
-http://localhost:5000
+Hit http://localhost:5000
 ###  APIs can be found at this link ###
 http://localhost:5000/getcustomerdata
 ### Run Dagster Server ###
