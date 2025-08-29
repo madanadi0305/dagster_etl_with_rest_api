@@ -1,13 +1,14 @@
 ### Create python virtual environment###
 python -m venv  env_name
 ### Install Packages ###
-pip dagster dagster-embdedded-elt 
+pip dagster  dagster-embdedded-elt dagster-dlt
 ### Create an Empty Dagster Project ###
 cd Dagster_ETL_Rest
 dagster project scaffold --name rest_api_postgres
 
 ### Run the Flask App ###
 In one terminal run the App
+
 flask --app app run
 
 Hit http://localhost:5000
