@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+rest_api_postgres/__init__.py
+rest_api_postgres/assets.py
+rest_api_postgres/definitions.py
+rest_api_postgres.egg-info/PKG-INFO
+rest_api_postgres.egg-info/SOURCES.txt
+rest_api_postgres.egg-info/dependency_links.txt
+rest_api_postgres.egg-info/requires.txt
+rest_api_postgres.egg-info/top_level.txt
